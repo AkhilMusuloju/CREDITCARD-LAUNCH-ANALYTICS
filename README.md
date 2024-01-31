@@ -28,7 +28,13 @@ As a data analyst who has been provided with sample data need to accomplish step
 
 ## Important metrics
 
-- Avg 
+- Total Customers
+- Total Income
+- Total Spendings
+- Total Average Income
+- Average Income Monthly
+- Average Spends Monthly
+- Average Income Utilization %
 
 
 
