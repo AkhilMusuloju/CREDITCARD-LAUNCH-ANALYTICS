@@ -14,7 +14,7 @@ _[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDA3MTk5YTgtNGI2NC00N
 - Microsoft Excel
 - Power BI
 
-## Task List
+## **Task List:**
 
 As a data analyst who has been provided with sample data need to accomplish step by step tasks and conduct analysis mentioned below to acheive the required data driven insights and recomandations.
 
@@ -26,7 +26,11 @@ As a data analyst who has been provided with sample data need to accomplish step
 - Determine the correlation between age group, income, and spending.
 - Analyze spending patterns across different cities. Identify potential cities for targeted credit card promotions.
 
-## Important metrics
+## **Datasets:**
+- Dim_customer: contains Customer details, such as customer ID, gender, city, age group, average income (for a period of 6 months), marital status, and occupation.
+- Fact_spend: Details about spending behavior, including customer ID, spending month, payment type, spending, and spending category.
+
+## **Important metrics:**
 
 - Total Customers
 - Total Income
