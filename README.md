@@ -7,7 +7,7 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 AtliQ Data Services aquired the pilot project provided with the sample dataset of 4000 customers across five cities on their online spend and other details. AtliQ Data Services aims to provide actionable insights guiding the customization of credit cards based on customer needs and market trends.
 
 
-_[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDA3MTk5YTgtNGI2NC00NWFiLWE0YTUtMDQ0NzhiODA0ZWQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+_[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiOTBiMDdlNjQtMjgwMS00MjJlLWFhMzAtNmRmOTdkYWQ3NTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## **Tools used:**
 
